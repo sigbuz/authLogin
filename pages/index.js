@@ -7,6 +7,7 @@ export default function home(){
       {/* <input /> */}
       <h3>Log In</h3>
       <button type="submit" >Google</button>
+      <button type="submit">Facebook</button>
     </div>
     
   )
